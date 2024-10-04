@@ -43,3 +43,13 @@ Business Recommendations
 
 
 # Project 4: Plant Seedling Classification
+
+Course: Introduction to Computer Vision
+Build a robust image classifier using CNNs to efficiently classify different plant seedlings and weeds to improve crop yields and minimize human involvement
+
+Skills & Tools Covered:
+Image Processing,
+Keras,
+Tensorflow,
+Convolutional Neural Networks,
+Transfer Learning
